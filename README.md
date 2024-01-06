@@ -32,21 +32,21 @@ Minimal data cleaning was carried out on this data set because it was already a 
 **Summary of insights**
 The **total amount of sales** generated throughout 4 years by Parch and Posey. Poster products generated the highest sales and also had the highest price per unit of $8.12 compared to their glossy and standard products. 
 
-# Top 10 sales_rep with the highest sales
+**Top 10 sales_rep with the highest sales**
 
 The sales rep who generated the highest sales throughout the four years. However, from the insight, Gorgienna Chisholm was assigned the most channels but still fell at number 4 out of the top 10 sales reps. Earlier Schleusner seems to be leading while Brandie comes at number 10.
 
-
-# Region with the highest sales
+**Region with the highest sales**
 
 The sales by region with the highest are **Northeast**. This could be as a result of the demand for their products. It could also be due to the efficiency of sales representatives in marketing the products. Midwest sales appeared to be the lowest.
 
-# Sales trend analysis throughout the four years
+**Sales trend analysis throughout the four years**
 Parch and Posey generated the highest sales in **2016** which later dropped drastically in 2017. This could be due to the minimal sales generated in January 2017 as compared to previous years.
 
-# Channel with the highest sales
+**Channel with the highest sales**
+The direct channel being the highest. This indicates that customers are more comfortable buying directly from the company and least interested in buying using Twitter.
 
-# Number of products sold per region
+**Number of products sold per region**
 Each region sold most of the **standard products** compared to gloss and poster. This could be that customers preferred the **standard product** probably due to its various uses.
 
 
